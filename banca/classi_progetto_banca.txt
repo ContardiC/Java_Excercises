@@ -1,0 +1,4 @@
+Cliente : nome, cognome, CF ...
+Conto : IBAN, saldo, Cliente, Transazioni[]
+Transazione: importo, data, 
+       tipo, descrizione
