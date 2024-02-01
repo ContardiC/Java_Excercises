@@ -1,4 +1,6 @@
-class Cliente{
+package banca;
+
+public class Cliente{
     // attributi 
     private String nome;
     private String cognome;

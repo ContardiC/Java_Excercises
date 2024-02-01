@@ -1,3 +1,4 @@
+Data: giorno, mese, anno 
 Cliente : nome, cognome, CF ...
 Conto : IBAN, saldo, Cliente, Transazioni[]
 Transazione: importo, data, 
